@@ -224,3 +224,4 @@ __marimo__/
 browser.json
 oauth.json
 .venv/
+state.json
